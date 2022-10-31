@@ -10,8 +10,8 @@
 }
 
 body {
-    /* background-image: url(/images/A\ man\ with\ computer\ on\ a\ white\ surface6.jpg); */
-    background-image: url(/images/darkforest.avif);
+    /* background-image: url(./images/A\ man\ with\ computer\ on\ a\ white\ surface6.jpg); */
+    background-image: url(./images/darkforest.avif);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
