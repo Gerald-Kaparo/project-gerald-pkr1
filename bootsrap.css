@@ -35,7 +35,7 @@ html{
 }
 
 .top-of-header h3{
-    background-image: url(/images/webhost4.png);
+    background-image: url(./images/webhost4.png);
     height: 14rem;
     width: 14rem;
     color:var(--black);
