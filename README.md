@@ -16,11 +16,19 @@ The objectives of this policy document are to promote sustainable exploitation o
 MY PROJECT IS LIVE AT:
 https://gerald-kaparo.github.io/project-gerald-pkr1/
 Technologies Used
-HTML
-MdBootstrap
-HTML
-CSS
-JavaScript
+
+1.HTML
+2.MdN
+3.Bootstrap
+4.HTML
+5.CSS
+6.JavaScript
+
+
+TOPICS:
+CONTRIBUTIONS
+![image](https://user-images.githubusercontent.com/111950276/199226812-552abe39-845d-4650-8031-4b34fba62e64.png)
+
 
 MIT License
 
