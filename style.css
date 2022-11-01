@@ -102,15 +102,6 @@ nav.bar{
 
 
 
-
-
-
-
-
-
-
-
-
 /* Style the header */
 .header {
     padding: 10px 16px;
@@ -138,8 +129,6 @@ nav.bar{
 
 
 
-
-
 /* gradient bg scrll */
   html{
      height: 3000px;/* Used to enable scrolling */
@@ -149,9 +138,6 @@ nav.bar{
   }
   
 /* alternative color: #1fdb29 55% rgb(4, 243, 4) */
-
-
-
 
 
 
@@ -449,24 +435,10 @@ p#typeHelper{
 
 
 
-
-
-
-
-
-
-
-
-
-
 /* trying to positioning the time button */
 button#les{
     margin-left: -48rem;
 }
-
-
-
-
 
 
 
@@ -478,12 +450,12 @@ button#les{
   }
   
   /* Hide the links inside the navigation menu (except for logo/home) */
-  .phonesMenu #linkPhoneDirection {
+.phonesMenu #linkPhoneDirection {
     display: none;
   }
   
   /* Style navigation menu links */
-  .phonesMenu a {
+.phonesMenu a {
     color: #333;
     padding: 14px 16px;
     text-decoration: none;
@@ -492,7 +464,7 @@ button#les{
   }
   
   /* Style the hamburger menu */
-  .phonesMenu a.icon {
+.phonesMenu a.icon {
     background: #ddd;
     display: block;
     position: absolute;
@@ -501,18 +473,18 @@ button#les{
   }
   
   /* Add a grey background color on mouse-over */
-  .phonesMenu a:hover {
+.phonesMenu a:hover {
     background-color: #fff;
     color: #333;
   }
   
-  /* Style the active link (or home/logo) */
-  .direction {
+/* Style the active link (or home/logo) */
+.direction {
     background-color:#fff;
     color: #333;
   }
-  div.ssh{
-    background-image: url(../images/darkforest.avif);
+div.ssh{
+    background-image: url(./images/darkforest.avif);
     background-color: #333;
     background-repeat: no-repeat;
     background-attachment: fixed;
