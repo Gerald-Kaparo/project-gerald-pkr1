@@ -1,0 +1,6 @@
+{
+    "webhook":{
+        "name": "{{webhookName}}",
+        "collection": "{{collectionUid}}"
+    }
+}
