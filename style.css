@@ -485,7 +485,6 @@ button#les{
   }
 div.ssh{
     background-image: url(./images/darkforest.avif);
-/*     background-color: #333; */
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
