@@ -308,6 +308,7 @@ section#more-data div ul img.classic{
     height: 4rem;
     width: 4rem;
     background-color: #f1f1f1;
+    border-radius: 20rem;
 
 }
 
@@ -470,19 +471,19 @@ button#les{
 
 
 /* Style the navigation menu */
-.topnav {
+.phonesMenu {
     overflow: hidden;
     background-color: #ddd;
     position: relative;
   }
   
   /* Hide the links inside the navigation menu (except for logo/home) */
-  .topnav #myLinks {
+  .phonesMenu #linkPhoneDirection {
     display: none;
   }
   
   /* Style navigation menu links */
-  .topnav a {
+  .phonesMenu a {
     color: #333;
     padding: 14px 16px;
     text-decoration: none;
@@ -491,7 +492,7 @@ button#les{
   }
   
   /* Style the hamburger menu */
-  .topnav a.icon {
+  .phonesMenu a.icon {
     background: #ddd;
     display: block;
     position: absolute;
@@ -500,13 +501,25 @@ button#les{
   }
   
   /* Add a grey background color on mouse-over */
-  .topnav a:hover {
+  .phonesMenu a:hover {
     background-color: #fff;
     color: #333;
   }
   
   /* Style the active link (or home/logo) */
-  .active {
+  .direction {
     background-color:#fff;
     color: #333;
+  }
+  div.ssh{
+    background-image: url(./images/darkforest.avif);
+    background-color: #333;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin-top: 0px;
+    margin-right: 1rem;
+
   }
