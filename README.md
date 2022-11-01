@@ -4,12 +4,23 @@ FOREST CONSERVATION
 ![image](https://user-images.githubusercontent.com/111950276/199224281-87edceae-eef6-463f-97a3-3a6f72eff0f9.png)
 
 forests promote resilience since they can offer safety nets for livelihoods and are usually consumed more frequently when food is scarce. When they are sold, forest and tree products can help the world's food system become more nutrient-sensitive. minimizing water and air pollution. preserving open spaces and natural areas. conserving biodiversity, endangered species, and habitats for fish and animals. managing and defending wetlands and watersheds. maintaining leisure facilities and beautiful environments.
+CONTACT:
+Email: kapgeado05@gmail.com
+
+LOCATION:
+![image](https://user-images.githubusercontent.com/111950276/199225906-44d3da81-aa44-4111-bb53-b98256f3d623.png)
 
 MY NAME IS Gerald-Kaparo Am a statistician by profession. Am currently learning to be a full stack developer at Moringa school in partnership with Flatiron.
 
 The objectives of this policy document are to promote sustainable exploitation of forest resources for based on environmental protection and preservation and for the benefits of current and future generations of Kenyans. They also include respecting socio-cultural values and ensuring access to justice, gender equity, and inclusiveness. Finally, they aim to sustainably conserve water catchments areas by facilitating huma migration.
 MY PROJECT IS LIVE AT:
 https://gerald-kaparo.github.io/project-gerald-pkr1/
+Technologies Used
+HTML
+MdBootstrap
+HTML
+CSS
+JavaScript
 
 MIT License
 
