@@ -1,5 +1,3 @@
-// RESEARCH 1
-
 let picNum = 1;
 PictureDrivers(picNum);
 
@@ -121,9 +119,9 @@ document.querySelector('.on-hover-mover').onmouseleave = (e) =>{
 
 
 
-/* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
-function myFunction() {
-  var x = document.getElementById("myLinks");
+/* Toggle between showing and hiding the navigation menu links when the user clicks on the phone menu / bar icon */
+function phoneDirection() {
+  var x = document.getElementById("linkPhoneDirection");
   if (x.style.display === "block") {
     x.style.display = "none";
   } else {
