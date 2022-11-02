@@ -24,6 +24,11 @@ Technologies Used
 5.CSS
 6.JavaScript
 
+google maps API: this API is also used to locate the location where the project headqurters is
+![image](https://user-images.githubusercontent.com/111950276/199400205-fe6d5525-c300-420e-be80-f910ee6551ac.png)
+small screen overview:
+![image](https://user-images.githubusercontent.com/111950276/199400447-9fdae4a9-0cfe-4106-a0d2-ba6077768708.png)
+
 
 TOPICS:
 CONTRIBUTIONS
